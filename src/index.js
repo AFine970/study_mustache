@@ -27,6 +27,7 @@ const templateStr = `
         </ol>
     </div>
 `
+
 const data = {}
 
 myTemplateEngine.render(templateStr, data)
