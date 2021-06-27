@@ -1,6 +1,6 @@
 /**
  * 传入一维的tokens，实现按照层级结构进行折叠
- * @param {Array} tokens 
+ * @param {array} tokens 
  * @returns 
  */
 
