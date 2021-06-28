@@ -10,7 +10,7 @@ const myTemplateEngine = {
         console.log('domStr', domStr)
 
         let container = document.getElementById('container')
-        container.innerHTML = domStr
+        container.innerHTML = domStr // 上树
         container = null
     }
 }

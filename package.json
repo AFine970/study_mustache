@@ -1,11 +1,11 @@
 {
   "name": "study_mustache",
   "version": "1.0.0",
-  "description": "",
+  "description": "mustache学习笔记",
   "scripts": {
     "serve": "webpack-dev-server"
   },
-  "keywords": [],
+  "keywords": ["mustache"],
   "author": "cunhang_wwei",
   "license": "ISC",
   "devDependencies": {
